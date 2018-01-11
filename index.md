@@ -1,3 +1,3 @@
 # First time using GitHub.
-_I don't understand it yet..._
-__I'm hungry__
+**I don't understand it yet...**
+_I'm hungry_
